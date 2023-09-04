@@ -25,7 +25,7 @@ Linguagens de programação que utilizo no momento.
 ## Meu Site
 
 ![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
-webste: https://pablobezerra.github.io/Ola_Mundo/
+webste: https://pablobezerra.github.io/
 ## Minhas Redes
 
 Você pode entrar em contato comigo por essas redes.
